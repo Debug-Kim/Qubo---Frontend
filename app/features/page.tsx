@@ -1,3 +1,6 @@
+"use client";
+
+
 import type { Metadata } from "next";
 import SectionWrapper from "@/components/layout/SectionWrapper";
 import Reveal from "@/components/ui/Reveal";
